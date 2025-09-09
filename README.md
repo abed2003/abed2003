@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - I’m currently working in the Moffaker 
 - I’m currently learning laravel - php 
 
+<br></br>
+<br></br>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
