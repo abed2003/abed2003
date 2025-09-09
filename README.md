@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F61%2FHTML5_logo_and_wordmark.svg">
+<img alt="Static Badge" src="https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F61%2FHTML5_logo_and_wordmark.svg">
