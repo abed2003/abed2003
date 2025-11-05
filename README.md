@@ -5,8 +5,9 @@
 Here are some ideas to get you started:
 - About My https://abed2003.github.io/
 - I’m worked in the PalSoft
-- I’m currently working in the Moffaker 
-- I’m currently learning laravel - php 
+- I’m worked in the Moffaker 
+- I’m currently learning laravel - php
+- I'm currently working in the elety company 
 <br></br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
