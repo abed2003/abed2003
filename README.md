@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abed2003&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abed2003&layout=compact)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abed2003&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abed2003&layout=compact)
