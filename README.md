@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-181717?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 <br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abed2003&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abed2003&layout=compact)
